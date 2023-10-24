@@ -2,10 +2,7 @@
 
 We now foucs on model-data-driven defect detection for Railway tunnel linings, including 
   - [Surveys](#Surveys)
-  - [Unmixing](#Unmixing)
-  - [Denoising](#Denoising)
-  - [Fusion](#Fusion)
-  - [Detection](#Detection)
+  - [Low-Rank Representation](#Low-Rank_Representation)
   - [Journals](#Journals)
 
 <strong> Last Update: October 22, 2023 </strong>
@@ -14,13 +11,18 @@ We now foucs on model-data-driven defect detection for Railway tunnel linings, i
 <a name="Surveys" />
 
 ## Surveys
+- [2023] 基于计算机视觉的工业金属表面缺陷检测综述, 自动化学报  [[paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c230039?viewType=HTML)]
 - [2022] A systematic literature review on software defect prediction using artificial intelligence: Datasets, Data Validation Methods, Approaches, and Tools, Engineering Applications of Artificial Intelligence [[paper](https://www.sciencedirect.com/science/article/pii/S0952197622000616)]
+- [2022] Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/9849507)]
+- [2022] A Survey of Defect Detection Applications Based on Generative Adversarial Networks,  IEEE Access  [[paper](https://ieeexplore.ieee.org/abstract/document/9930483)]
+- [2022] 工业缺陷检测深度学习方法综述, 中国科学  [[paper](http://scis.scichina.com/cn/2022/SSI-2021-0336.pdf)]
+- [2022] 图像异常检测研究现状综述, 自动化学报  [[paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200956)]
 - [2020] Automated Visual Defect Detection for Flat Steel Surface: A Survey, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/8948233)]
 
 
 
 - 
-<a name="Unmixing" />
+<a name="Low-Rank_Representation" />
 
 ## Low-Rank Representation
 - [2022] A Generalized Low-Rank Double-Tensor Nuclear Norm Completion Framework for Infrared Small Target Detection, IEEE TAES [[paper](https://ieeexplore.ieee.org/abstract/document/9699018)]
