@@ -21,7 +21,7 @@ We now foucs on model-data-driven defect detection for Railway tunnel linings, i
 
 
 
-- 
+  
 <a name="Low-Rank_Representation" />
 
 ## Low-Rank Representation
