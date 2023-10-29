@@ -12,6 +12,7 @@ We now foucs on model-data-driven defect detection for Railway tunnel linings, i
 
 ## Surveys
 - [2023] 基于计算机视觉的工业金属表面缺陷检测综述, 自动化学报 [[paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c230039?viewType=HTML)]
+- [2023] Deep Transfer Learning for Bearing Fault Diagnosis: A Systematic Review Since 2016 [[paper](https://ieeexplore.ieee.org/abstract/document/10042467)]  [[code](https://github.com/Xiaohan-Chen/transfer-learning-fault-diagnosis-pytorch)] 
 - [2022] A systematic literature review on software defect prediction using artificial intelligence: Datasets, Data Validation Methods, Approaches, and Tools, Engineering Applications of Artificial Intelligence [[paper](https://www.sciencedirect.com/science/article/pii/S0952197622000616)]
 - [2022] Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/9849507)]
 - [2022] A Survey of Defect Detection Applications Based on Generative Adversarial Networks, IEEE Access [[paper](https://ieeexplore.ieee.org/abstract/document/9930483)]
