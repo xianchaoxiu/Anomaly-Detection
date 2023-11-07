@@ -31,6 +31,12 @@ We now foucs on model-data-driven defect detection for Railway tunnel linings, i
 - [2021] Sparse Low-Rank Tensor Decomposition for Metal Defect Detection Using Thermographic Imaging Diagnostics, IEEE TII [[paper](https://ieeexplore.ieee.org/abstract/document/9091912)]
 - [2020] Surface Defect Detection via Entity Sparsity Pursuit With Intrinsic Priors, IEEE TII [[paper](https://ieeexplore.ieee.org/abstract/document/8717723)]
 
+
+<a name="Low-Rank_Representation" />
+
+## Low-Rank Representation
+
+
 <a name="Journals " />
 
 ## Journals
