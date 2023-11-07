@@ -1,6 +1,6 @@
-# Model-Data-Driven Defect Detection
+# Defect Detection
 
-We now foucs on model-data-driven defect detection for Railway tunnel linings, including 
+We now foucs on model-data-driven defect detection for Railway tunnel linings. 
   - [Surveys](#Surveys)
   - [Low-Rank Representation](#Low-Rank_Representation)
   - [Journals](#Journals)
