@@ -1,6 +1,6 @@
-# Defect Detection
+# Anomaly Detection
 
-We now foucs on model-data-driven defect detection for Railway tunnel linings. 
+We now foucs on model-data-driven anomaly detection for Railway tunnel linings. 
   - [Surveys](#Surveys)
   - [Low-Rank Representation](#Low-Rank_Representation)
   - [Journals](#Journals)
@@ -17,6 +17,7 @@ We now foucs on model-data-driven defect detection for Railway tunnel linings.
 - [2022] Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/9849507)]
 - [2022] A Survey of Defect Detection Applications Based on Generative Adversarial Networks, IEEE Access [[paper](https://ieeexplore.ieee.org/abstract/document/9930483)]
 - [2022] 工业缺陷检测深度学习方法综述, 中国科学 [[paper](http://scis.scichina.com/cn/2022/SSI-2021-0336.pdf)]
+- [2021] Machine Learning for Anomaly Detection: A Systematic Review, IEEE Access  [[paper](https://ieeexplore.ieee.org/abstract/document/9439459)]
 - [2022] 图像异常检测研究现状综述, 自动化学报 [[paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200956)]
 - [2020] Automated Visual Defect Detection for Flat Steel Surface: A Survey, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/8948233)]
 
