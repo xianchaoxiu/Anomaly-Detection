@@ -1,4 +1,4 @@
-# Anomaly-Detection
+# Anomaly Detection
 I am currently working on anomaly detection with machine learning and deep learning.
 - [Surveys](#Surveys)
 - [Fault Diagnosis](#Fault_Diagnosis)
