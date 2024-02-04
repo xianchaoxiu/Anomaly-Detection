@@ -3,6 +3,7 @@ I am currently working on anomaly detection with machine learning and deep learn
 - [Surveys](#Surveys)
 - [Fault Diagnosis](#Fault_Diagnosis)
 - [Surface Defect](#Surface_Defect)
+- [Object Tracking](#Object_Tracking)
 - [Links](#Links)
 
 <strong> Last Update: February 4, 2024 </strong>
@@ -39,12 +40,21 @@ I am currently working on anomaly detection with machine learning and deep learn
 
 ## Surface Defect
 - [2023] Transfer Learning for Real-Time Surface Defect Detection With Multi-Access Edge-Cloud Computing Networks, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10206024)]
-- [2022] A Generalized Low-Rank Double-Tensor Nuclear Norm Completion Framework for Infrared Small Target Detection, IEEE TAES [[paper](https://ieeexplore.ieee.org/abstract/document/9699018)]
+- [2021] Surface Defects Detection Using Non-convex Total Variation Regularized RPCA With Kernelization, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/9346005)]
+- [2021] Weighted Double-Low-Rank Decomposition With Application to Fabric Defect Detection, IEEE TASE [[paper](https://ieeexplore.ieee.org/abstract/document/9123438)]
 - [2020] Surface Defect Detection via Entity Sparsity Pursuit With Intrinsic Priors, IEEE TII [[paper](https://ieeexplore.ieee.org/abstract/document/8717723)]
 - [2019] A CNN-Based Transfer Learning Method for Defect Classification in Semiconductor Manufacturing, IEEE TSM [[paper](https://ieeexplore.ieee.org/abstract/document/8839832)]
 
 
 
+<a name="Object_Tracking" />
+
+## Object Tracking
+- [2023] Enhanced robust spatial feature selection and correlation filter learning for UAV tracking, Neural Networks  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000035)]
+- [2022] Graph Moving Object Segmentation, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9288631)]
+- [2022] Hierarchical Spatiotemporal Graph Regularized Discriminative Correlation Filter for Visual Object Tracking, IEEE TCYB [[paper](https://ieeexplore.ieee.org/abstract/document/9475879)]
+- [2020] Robust Structural Low-Rank Tracking, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8995776)]
+- [2019] Low-rank Tensor Tracking, ICCV [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RSL-CV/javed_Low-Rank_Tensor_Tracking_ICCVW_2019_paper.pdf)]
 
 
 <a name="Links" />
