@@ -49,12 +49,12 @@ I am currently working on anomaly detection with machine learning and deep learn
 <a name="Object_Tracking" />
 
 ## Object Tracking
-- [2023] Enhanced robust spatial feature selection and correlation filter learning for UAV tracking, Neural Networks  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000035)]
-- [2022] Graph Moving Object Segmentation, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9288631)]
-- [2022] Hierarchical Spatiotemporal Graph Regularized Discriminative Correlation Filter for Visual Object Tracking, IEEE TCYB [[paper](https://ieeexplore.ieee.org/abstract/document/9475879)]
+- [2023] Enhanced robust spatial feature selection and correlation filter learning for UAV tracking, Neural Networks  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000035)] [[Matlab](https://github.com/HonglinChu/EFSCF)]
+- [2022] Graph Moving Object Segmentation, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9288631)] [[Matlab](https://github.com/jhonygiraldo/GraphMOS)]
+- [2022] Federated Over-Air Subspace Tracking From Incomplete and Corrupted Data, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9808342)] [[Matlab](https://github.com/andrewssobral/distributed-pca)]
 - [2020] Robust Structural Low-Rank Tracking, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8995776)]
 - [2019] Low-rank Tensor Tracking, ICCV [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RSL-CV/javed_Low-Rank_Tensor_Tracking_ICCVW_2019_paper.pdf)]
-
+- [2019] Robust Visual Tracking Via Consistent Low-Rank Sparse Learning, International Journal of Computer Vision  [[paper](https://nlpr.ia.ac.cn/mmc/homepage/tzzhang/tianzhu%20zhang_files/Journal%20Articles/IJCV15_zhang_Low-Rank%20Sparse%20Learning.pdf)] [[Matlab](https://nlpr.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_IJCV14/Robust%20Visual%20Tracking%20Via%20Consistent%20Low-Rank%20Sparse.html)]
 
 <a name="Links" />
 
@@ -69,6 +69,7 @@ I am currently working on anomaly detection with machine learning and deep learn
 ### Tools
 - Rotating Machine Fault Datasets [[Link](https://github.com/hustcxl/Rotating-machine-fault-data-set)]
 - Surface Defect Datesets [[Link](https://github.com/Charmve/Surface-Defect-Detection)]
+- Visual Tracking Development [[Link](https://github.com/DavidZhangdw/Visual-Tracking-Development)]
 
 
 
