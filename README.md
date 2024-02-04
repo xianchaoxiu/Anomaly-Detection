@@ -62,7 +62,7 @@ I am currently working on anomaly detection with machine learning and deep learn
 
 
 ### Tools
-- Rotating Machine Fault Datasets [[Link]([https://github.com/Charmve/Surface-Defect-Detection](https://github.com/Xiaohan-Chen/Rotating-machine-fault-data-set)https://github.com/Xiaohan-Chen/Rotating-machine-fault-data-set)]
+- Rotating Machine Fault Datasets [[Link](https://github.com/Xiaohan-Chen/Rotating-machine-fault-data-set)]
 - Surface Defect Datesets [[Link](https://github.com/Charmve/Surface-Defect-Detection)]
 
 
