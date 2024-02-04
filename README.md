@@ -49,7 +49,7 @@ I am currently working on anomaly detection with machine learning and deep learn
 <a name="Object_Tracking" />
 
 ## Object Tracking
-- [2023] Enhanced robust spatial feature selection and correlation filter learning for UAV tracking, Neural Networks [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000035)] [[Matlab](https://github.com/HonglinChu/EFSCF)]
+- [2023] Enhanced Robust Spatial Feature Selection and Correlation Filter Learning for UAV Tracking, Neural Networks [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000035)] [[Matlab](https://github.com/HonglinChu/EFSCF)]
 - [2022] Graph Moving Object Segmentation, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9288631)] [[Matlab](https://github.com/jhonygiraldo/GraphMOS)]
 - [2022] Federated Over-Air Subspace Tracking From Incomplete and Corrupted Data, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9808342)] [[Matlab](https://github.com/andrewssobral/distributed-pca)]
 - [2020] Robust Structural Low-Rank Tracking, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8995776)]
