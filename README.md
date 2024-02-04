@@ -1,5 +1,5 @@
 # Anomaly Detection
-I am currently working on anomaly detection with machine learning and deep learning.
+I am currently working on anomaly detection in wide applications.
 - [Surveys](#Surveys)
 - [Fault Diagnosis](#Fault_Diagnosis)
 - [Surface Defect](#Surface_Defect)
