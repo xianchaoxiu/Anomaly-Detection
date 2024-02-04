@@ -1,11 +1,11 @@
 # Anomaly-Detection
-I am currently working on machine/deep learning for defect detection in high-speed railway tunnels.
+I am currently working on anomaly detection with machine learning and deep learning.
 - [Surveys](#Surveys)
-- [Machine Learning](#Machine_Learning)
-- [Deep Learning](#Deep_Learning)
+- [Fault Diagnosis](#Fault_Diagnosis)
+- [Surface Defect](#Surface_Defect)
 - [Links](#Links)
 
-<strong> Last Update: October 22, 2023 </strong>
+<strong> Last Update: February 4, 2024 </strong>
 
 
 <a name="Surveys" />
@@ -29,9 +29,14 @@ I am currently working on machine/deep learning for defect detection in high-spe
 - [2009] Anomaly detection: A survey, ACM Computing Surveys [[Paper](https://dl.acm.org/doi/abs/10.1145/1541880.1541882)]
 
   
-<a name="Machine_Learning" />
+<a name="Fault_Diagnosis" />
 
-## Machine Learning
+## Fault Diagnosis
+
+<a name="Surface_Defect" />
+
+## Surface Defect
+
 - [2022] A Generalized Low-Rank Double-Tensor Nuclear Norm Completion Framework for Infrared Small Target Detection, IEEE TAES [[paper](https://ieeexplore.ieee.org/abstract/document/9699018)]
 - [2021] Surface Defects Detection Using Non-convex Total Variation Regularized RPCA With Kernelization, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/9346005)]
 - [2021] Sparse Low-Rank Tensor Decomposition for Metal Defect Detection Using Thermographic Imaging Diagnostics, IEEE TII [[paper](https://ieeexplore.ieee.org/abstract/document/9091912)]
@@ -53,11 +58,11 @@ I am currently working on machine/deep learning for defect detection in high-spe
 ### Journal
 - IEEE Transactions on Image Processing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)]
 - IEEE Transactions on Industrial Informatics [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)]
-- IEEE Transactions on Knowledge and Data Engineering [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)]
+- IEEE Transactions on Instrumentation and Measurement [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)]
 
 
 ### Tools
-- Datasets [[Link](https://github.com/Charmve/Surface-Defect-Detection)]
+- Surface Defect Datesets [[Link](https://github.com/Charmve/Surface-Defect-Detection)]
 
 
 
