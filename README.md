@@ -1,4 +1,4 @@
-# Defect-Detection
+# Anomaly-Detection
 I am currently working on machine/deep learning for defect detection in high-speed railway tunnels.
 - [Surveys](#Surveys)
 - [Machine Learning](#Machine_Learning)
