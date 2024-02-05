@@ -6,7 +6,7 @@ I am currently working on anomaly detection in wide applications.
 - [Object Tracking](#Object_Tracking)
 - [Links](#Links)
 
-<strong> Last Update: February 4, 2024 </strong>
+<strong> Last Update: 2024/2/5 </strong>
 
 
 <a name="Surveys" />
